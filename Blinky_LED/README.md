@@ -43,11 +43,13 @@ Yes, You got it. Now __Right Click__ on __Blinky_LED Project__ and click in __Bu
 <img Src="https://drive.google.com/uc?id=15ooDfckTUeNh4ybAUA30S3BA3xhfpEcI" />
 
 YEP! we've done our import.
+
 <img Src="https://drive.google.com/uc?id=1gJD281O10ZTEiyTKiEGZnqCeQJbFn38E" />
 
 
 ## Create Blinky_LED Files
 Now we are going to include the Blink Led files, on __Blinky_LED Project__ go throughout the path  __src -> AppSw -> Tricore -> Demo_IIId__ and create the files __Blinky_LED.c__ and __Blinky_LED.h__. __Right Click__ on __Blinky_LED Project -> New -> Source File__.
+
 <img Src="https://drive.google.com/uc?id=1YgK_wnxfehdRZYVAReZJvdlwOwhwmUEx" />
 
 put the name  __Blinky_LED.c__ and click __Finish__.
@@ -71,7 +73,6 @@ After created both files, its time to call those in the main function, in __src 
 ## Debug the Blinky_LED Project
 Now it is time to debbuge and test our project in the Board. With Board pluged on PC. __Right Click__ on __Blinky_LED Project__ and go throughout __Debug As -> Debug Configurations..__.
 <img Src="https://drive.google.com/uc?id=1TVkIF9O-yeveENR6eSjU2_kGgaJzhVFv" />
-
 
 In the new windows, doble click in __Universal Debug Engine__.
 
