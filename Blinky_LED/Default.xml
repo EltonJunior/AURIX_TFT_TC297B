@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath>h</includepath>
+
+</language>
+<language name="CPCP Source File">
+<includepath>h</includepath>
+
+</language>
+<language name="s,S,asm,ASM">
+<includepath>h</includepath>
+
+</language>
+<language name="MCS Assembler File">
+<includepath>h</includepath>
+
+</language>
+<language name="o">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+<macro>
+<name>APPKIT_TC297TFT</name><value/>
+</macro>
+
+</language>
+<language name="CPCP Source File">
+
+</language>
+<language name="s,S,asm,ASM">
+
+</language>
+<language name="MCS Assembler File">
+
+</language>
+<language name="o">
+
+</language>
+</section>
+</cdtprojectproperties>

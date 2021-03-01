@@ -8,14 +8,9 @@ Which IDE has its methon to create, start and configuration project, the HighTec
 
 ### Import a Default Project into HighTec IDE
 
-If you didn't make any project yet, don't freak out, I'm going to start a project from Zero. below you can see the HighTec when it was execute in the first time.
+If you didn't make any project yet, don't freak out, I'm going to start a project from Zero. below you can see the HighTec when it was execute in the first time. In this windows you just need to close the welcome.
 
-<table  style="width:200%"  id="t01">
-<tr>
-<td><img  Src=" https://drive.google.com/uc?id=1RKJtaL_qxT9ddeuU-ea5m9QmqW68F7on"  alt=""></td>
-<td> In this windows you just need to close the welcome.</td>
-</tr>
-</table>
+<img Src="https://drive.google.com/uc?id=1RKJtaL_qxT9ddeuU-ea5m9QmqW68F7on"  alt="">
 
 So, Before we done something in the HighTec IDE, we need to clone the **Default** project that should be found [Here](C:\AURIX_TFT_Board\Default). and put it in the Workapace, if you don't know how to do it, look at [How to Clone a Repository on Github](https://www.wikihow.com/Clone-a-Repository-on-Github#:~:text=Enter%20%E2%80%9Cgit%20clone%E2%80%9D%20followed%20by%20the%20source%20location,type%20out%20the%20source%20location%20after%20the%20command.). Now you can close the Welcome windows, it will became this new windows in below image.
 
@@ -32,8 +27,7 @@ A[File]--> B[Import]
 </div>
 </td>
 <td>
-<img  Src="https://drive.google.com/uc?id=1U285IpwpwuTY1gjxVG-AkTiYkJS4QubX "
-alt="" >
+<img  Src="https://drive.google.com/uc?id=1U285IpwpwuTY1gjxVG-AkTiYkJS4QubX " alt="" >
 </td>
 </tr>
 </table>
