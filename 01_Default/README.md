@@ -4,7 +4,7 @@ This tutorial will guide you how to prepare the HighTec IDE to develepor project
 
 ## Introdution
 
-Which IDE has its methon to create, start and configuration project, the HighTec isn't different, so, to make easy your development use the HighTec IDE, I already done a default project that you can get it [Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/Default). below I am going to discrible how to import and compile it. Go aread and get the project and help yourself.
+Which IDE has its methon to create, start and configuration project, the HighTec isn't different, so, to make easy your development use the HighTec IDE, I already done a default project that you can get it [Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/01_Default). below I am going to discrible how to import and compile it. Go aread and get the project and help yourself.
 
 ### Import a Default Project into HighTec IDE
 
@@ -108,4 +108,4 @@ To run the program click in __Start Program__
 
 So, it will do nothig aparent, but if you got to here without error, its mean that you a ready to run wherever program you want.
 
-[Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/Blinky_LED) you are going to find the __Blinky_LED__ and how to configure it.
+[Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/02_Blinky_LED) you are going to find the __Blinky_LED__ and how to configure it.
