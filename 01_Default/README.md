@@ -12,7 +12,7 @@ If you didn't make any project yet, don't freak out, I'm going to start a projec
 
 ![image_0](https://drive.google.com/uc?id=1RKJtaL_qxT9ddeuU-ea5m9QmqW68F7on)
 
-So, Before we done something in the HighTec IDE, we need to clone the **Default** project that should be found [Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/Default). and put it in the Workapace, if you don't know how to do it, look at [How to Clone a Repository on Github](https://www.wikihow.com/Clone-a-Repository-on-Github#:~:text=Enter%20%E2%80%9Cgit%20clone%E2%80%9D%20followed%20by%20the%20source%20location,type%20out%20the%20source%20location%20after%20the%20command.). Now you can close the Welcome windows, it will became this new windows in below image.
+So, Before we done something in the HighTec IDE, we need to clone the **Default** project that should be found [Here](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/01_Default). and put it in the Workapace, if you don't know how to do it, look at [How to Clone a Repository on Github](https://www.wikihow.com/Clone-a-Repository-on-Github#:~:text=Enter%20%E2%80%9Cgit%20clone%E2%80%9D%20followed%20by%20the%20source%20location,type%20out%20the%20source%20location%20after%20the%20command.). Now you can close the Welcome windows, it will became this new windows in below image.
 
 ![Image_1](https://drive.google.com/uc?id=1XDlehlOzTXx9MYZ_aU8ZruZ7leYvQwrZ)
 
