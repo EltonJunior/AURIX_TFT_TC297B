@@ -10,7 +10,7 @@ As every programmer says, if you don't do a Hello World you don't ready to do an
 
 ### Make a Blinky_LED using Default Project
 
-In the [Default Project](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/Default) we done the imported the project in the HighTec IDE and compile it, so, to create a __Blinky_Led Project__ we need to copy de __Default Project__ and past it in the __WorkSpace__.
+In the [Default Project](https://github.com/EltonJunior/AURIX_TFT_TC297B/tree/main/01_Default) we done the imported the project in the HighTec IDE and compile it, so, to create a __Blinky_Led Project__ we need to copy de __Default Project__ and past it in the __WorkSpace__.
 
 ![Image_1](https://drive.google.com/uc?id=17M0yak7wOEHJroBNT18-Er2Iu7BIAZnS)
 
@@ -59,7 +59,7 @@ Now we are going to include the Blink Led files, on __Blinky_LED Project__ go th
 put the name __Blinky_LED.c__ and click __Finish__.
 
 ![Image_11](https://drive.google.com/uc?id=1mz0TrwW8tq7GGfYAA6v1nKg2gVw4qFY7)
- 
+
 do it to __Blinky_LED.h__.
 
 ![Image_12](https://drive.google.com/uc?id=1FtoIxJ9eoeiA0TkpT4TeABWZXiXg1xYz)
