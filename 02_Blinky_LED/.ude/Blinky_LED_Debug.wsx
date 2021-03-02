@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stg format="2.0">
+	<OriginalWsp type="string">Blinky_LED_Debug.wsx</OriginalWsp>
+	<BackupWspFlag type="flag">0</BackupWspFlag>
+	<UseWspCnt type="int">1</UseWspCnt>
+	<WspCloseCnt type="int">0</WspCloseCnt>
+	<ProdInfo type="bin" size="52">vQTv/gAAAQAGAAMAESADAAAABQAAAAAAPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAA==</ProdInfo>
+	<ProdInfoString type="string">5.0</ProdInfoString>
+</stg>
