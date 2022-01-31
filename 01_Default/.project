@@ -6,6 +6,18 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
+			<name>com.infineon.aurix.buildsystem.builders.booster</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.infineon.aurix.buildsystem.builders.autodiscovery</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
 			<name>com.rt.hightec.framework.buildsystem.project.prepostbuilder.PreBuilder</name>
 			<arguments>
 			</arguments>
