@@ -1,0 +1,80 @@
+
+
+
+
+# ignore a single file
+*.autosave
+
+# ignore an entire directory
+/Debug/
+/Reference/
+/.metadata/
+/Configurations/
+
+# The iLLD,Infra and Service folder can be ignored because of IDE generete
+**/Libraries/iLLD*
+**/Libraries/Infra*
+**/Libraries/Service*
+
+# ignore a file type
+*.json
+
+# add an exception (using !) to the preceding rule to track a specific file
+!package.json
+
+
+# ude report files
+__connection_failed_report*
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
