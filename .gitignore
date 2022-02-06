@@ -4,12 +4,16 @@
 
 # ignore a single file
 *.autosave
+*.launch
+*.lsl
+*.pincfg
 
 # ignore an entire directory
-/Debug/
+**/Debug/
 /Reference/
 /.metadata/
 /Configurations/
+**/.settings/
 
 # The iLLD,Infra and Service folder can be ignored because of IDE generete
 **/Libraries/iLLD*
