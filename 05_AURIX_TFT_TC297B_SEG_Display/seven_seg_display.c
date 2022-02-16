@@ -1,8 +1,11 @@
-/*
- * seven_seg_display.c
+/** @file       seven_seg_display.c
+ *  @brief      Seven Segment Display File.
  *
- *  Created on: 9 de fev de 2022
- *      Author: uidq5744
+ *
+ *  @author     Elton Junior
+ *  @since      9 de fev de 2022
+ *  @version    1.0
+ *  @bug        No known bugs.
  */
 
 #include "Ifx_Types.h"

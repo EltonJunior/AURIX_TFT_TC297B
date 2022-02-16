@@ -31,7 +31,7 @@ The next figure shows the internal structure of the seven-segment display, which
 
 The method of driving a common anode seven-segment display is to connect the COM pin to the +5V power supply, and connect each segment to a 560Ω, For this project, The current limiting resistor to the ground will illuminate.
 
-As shown in Table below, the common anode seven-segment display number 0~9, if microcontroller's port bits 7~0 are connected to p, g, f, e, d, c, b, a and other pins in sequence, then the hexadecimal display code is displayed in sequence are 0xc0, 0xf9, 0xa4, 0xb0, 0x99, 0x92, 0x82, 0xf8, 0x80, 0x90.
+As shown in Table below, the common anode seven-segment display number from 0 to 9, if microcontroller's port bits from 7 to 0 are connected to p, g, f, e, d, c, b, a and other pins in sequence, then the hexadecimal display code is displayed in sequence are 0xc0, 0xf9, 0xa4, 0xb0, 0x99, 0x92, 0x82, 0xf8, 0x80, 0x90.
 
 <table>
   <tr>
@@ -80,7 +80,7 @@ The method of driving the common cathode seven-segment display is to ground the 
 
 <img class="aligncenter" src="images/display_construction_common_cathode.png" alt="display_construction_common_cathode">
 
-The table below shows the common cathode seven-segment display number 0~9 font code, if the microcontroller port bits 7~0 are connected to p, g, f, e, d, c, b, a and other pins in sequence, then the hexadecimal display code is 0x3f,0x06, 0x5b, 0x4f, 0x66, 0x6d, 0x7d, 0x07, 0x7f, 0x6f.
+The table below shows the common cathode seven-segment display number from 0 to 9 font code, if the microcontroller port bits from 7 to 0 are connected to p, g, f, e, d, c, b, a and other pins in sequence, then the hexadecimal display code is 0x3f,0x06, 0x5b, 0x4f, 0x66, 0x6d, 0x7d, 0x07, 0x7f, 0x6f.
 
 <table>
   <tr>
@@ -130,6 +130,9 @@ Sometimes, in order to reduce the complexity of circuit board wiring, it is comm
 If it is a common cathode four-connected seven-segment display, each segment is connected to a 560Ω current limiting resistor to microcontroller pin, and any of DIG1, DIG2, DIG3, and DIG4 is grounded in the microcontroller, and the relative digits will light up.
 
 <img class="aligncenter" src="images/seven_segment_four_digit.png" alt="seven_segment_four_digit">
+
+The project proposed here is shown in the Figure below.
+<img class="aligncenter" src="images/Seven_Segment_assembly.png" alt="Seven_Segment_assembly">
 
 ## The Program
 
